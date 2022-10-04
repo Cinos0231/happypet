@@ -1,2 +1,2 @@
 # happypet
-pag tienda de mascotas
+tienda de mascotas
